@@ -67,7 +67,7 @@
 .carinputs{position: initial;}
 .sweet{position: inherit; padding-bottom: 15px;}
 .banana{margin: 0 auto; padding-left: 0; text-align: center; padding-bottom: 6px;}
-.banana_p{max-width: 600px; padding: 0px 5px;}
+.banana_p{max-width: 600px; padding: 0px 15px;}
 .disc_discript{padding-left: 10px; padding-right: 10px;}
 .carusel{position: initial;}
 
@@ -136,13 +136,13 @@
   .disc_image{height: 300px;}
   .navigation{padding-bottom: .5rem;}
   .cop{padding-top: 10px;}
-  .search{text-align: center; padding-left: 4px; padding-top: 5px;}
+  .search{text-align: center; padding-left: 4px; padding-top: 5px; max-width: 60%;}
   .search>input{font-size: 20px; max-width: 100%;}
   .lem{display: none;}
   .thisEror{margin-bottom: 3rem;}
 	.sub_ul{background-color: black; color: wheat;}
-	.main_li:hover span{font-weight: bold;border-bottom: 2px solid}
-
+	.main_li:hover span{font-weight: bold;border-bottom: 2px solid;}
+	.main_li{user-select: none;}
 
   /*Burger*/
   .burger{/*position: relative;*/ width: 35px;}
