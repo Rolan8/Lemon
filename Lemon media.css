@@ -156,6 +156,6 @@
   .main_li:hover .sub_ul{display: block;}
   .sub_li:hover{border-bottom: 0px; /*padding-bottom: 10px;*/}
   /*.sub_li{padding: 5px 10px;}*/
-  .media{flex-direction: row; padding: 20px 5px; margin-bottom: 55px; align-items: center; justify-content: space-between;}
+  .media{flex-direction: row; padding: 20px 5px; margin-bottom: 55px; align-items: center; justify-content: space-around;}
   .navigation{position: absolute; z-index: 10; left: 0; background-color: #f8f8f8; padding-bottom: 0;}
 }
